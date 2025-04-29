@@ -13,6 +13,15 @@ This repository contains a basic data exploration project using a global weather
   - Wind speed, humidity, air pressure
   - Sunrise, sunset, moon phase, air quality indices, etc.
 
+
+The dataset used in this project is from Kaggle and is not included in this repository due to license restrictions.
+
+You can download it manually from the link below (Kaggle account required):
+
+🔗 [Download Global Weather Dataset from Kaggle](https://www.kaggle.com/datasets/henryshan/globalweatherrepository)
+
+Once downloaded, rename the file (if needed) to `GlobalWeatherRepository.csv` and place it in the project root directory.
+
 ## 📊 What’s Covered
 
 The notebook performs the following tasks:
@@ -45,6 +54,7 @@ The notebook performs the following tasks:
 
 - Python
 - Pandas
+- Jupyter Notebook
 
 ## 🚀 How to Run
 
